@@ -16,7 +16,7 @@
 - 🎓 Graduated from the School of Physics, Dalian University of Technology  
   
 
-- 📖 I'm learning Java for a job.
+- 📖 Keep learning.
   
  
 
